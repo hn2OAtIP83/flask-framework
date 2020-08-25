@@ -1,7 +1,8 @@
 __pycache__
 .idea
 .pytest_cache
-.vscode
+*vscode*
 flask-framkework.code-workspace
 .ipy*
-
+flask-framework.code-workspace
+.vscode/settings.json
